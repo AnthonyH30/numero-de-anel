@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/numero-de-anel/static/css/main.8c6d6164.css",
+    "main.js": "/numero-de-anel/static/js/main.6ea0db2b.js",
+    "static/media/imagem.svg": "/numero-de-anel/static/media/imagem.8459cca61a7e9df60ee9c98d401549be.svg",
+    "index.html": "/numero-de-anel/index.html",
+    "main.8c6d6164.css.map": "/numero-de-anel/static/css/main.8c6d6164.css.map",
+    "main.6ea0db2b.js.map": "/numero-de-anel/static/js/main.6ea0db2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c6d6164.css",
+    "static/js/main.6ea0db2b.js"
+  ]
+}
